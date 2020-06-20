@@ -1,11 +1,11 @@
 # Site settings
-author: Benjamin Mauss
-title: 
+author: Ben Mauss
+title: Technically Speaking
 header-img: img/home-bg.png
 email: ben.mauss@gmail.com
-copyright_name: Benjamin Mauss
+copyright_name: Ben Mauss
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Data Science Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bmauss
