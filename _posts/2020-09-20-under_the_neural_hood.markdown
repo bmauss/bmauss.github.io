@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Under the Neural Hood"
-date:       2020-09-20 22:59:49 +0000
+date:       2020-09-20 18:59:50 -0400
 permalink:  under_the_neural_hood
 ---
 
@@ -64,7 +64,7 @@ def feature_maps(image_tensor):
         plt.title(layer_name)
         plt.grid(False)
 ```
-(Note: All credit for this function goes to **Gabriel Pierobon** on **Medium**.  A HUGE thank you to him. Go check out his [article]https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0! for a deeper dive into visualizing intermediate activations)
+(Note: All credit for this function goes to **Gabriel Pierobon** on **Medium**.  A HUGE thank you to him. Go check out his [article](https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0!) for a deeper dive into visualizing intermediate activations)
 
 Now that the all due credit has been paid, let's dive in!
 
